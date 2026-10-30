@@ -2,7 +2,7 @@
 
 交互式傅里叶级数与离散傅里叶变换演示。纯 HTML、CSS 和 JavaScript，全部计算在浏览器本地完成，无外部依赖。
 
-[打开在线演示](https://sunrise690.github.io/fourier-lab/)
+[打开在线演示](https://sunrise690.github.io/qwer/)
 
 ## 交互功能
 
